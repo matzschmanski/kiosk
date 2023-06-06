@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Flutschfinger",
+      "pricePerUnit": 0.99,
+      "quantity": 12,
+      "category": "Eis"
+    },
+    {
+      "name": "Ed von Schleck",
+      "pricePerUnit": 0.99,
+      "quantity": 3,
+      "category": "Eis"
+    },
+    {
+      "name": "Magnum Schoko",
+      "pricePerUnit": 0.99,
+      "quantity": 99,
+      "category": "Eis"
+    },
+    {
+      "name": "Füchschen Alt",
+      "pricePerUnit": 0.99,
+      "quantity": 24,
+      "category": "Lokale Spezialitäten"
+    },
+    {
+      "name": "Herrenhäuser Premium Pils",
+      "pricePerUnit": 0.99,
+      "quantity": 24,
+      "category": "Getränke"
+    },
+    {
+      "name": "Schnüre",
+      "pricePerUnit": 0.10,
+      "quantity": 7000,
+      "category": "süßes"
+    },
+    {
+      "name": "Milch",
+      "pricePerUnit": 0.99,
+      "quantity": 1,
+      "category": "süßes"
+    },
+    {
+      "name": "Ravioli",
+      "pricePerUnit": 2.99,
+      "menge": 10,
+      "category": "süßes"
+    }
+
+  ]
